@@ -1,0 +1,10 @@
+.Buttons{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    padding-top:1em;
+    justify-content: center;
+    width: 100%;
+    gap: 2%;
+}

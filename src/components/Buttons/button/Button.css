@@ -1,0 +1,65 @@
+.divSignal{
+    width: 23%;
+    height: 13vh;
+}
+
+.divNumber{
+    width: 23%;
+    height: 13vh;
+}
+
+.divEqual{
+    width: 48%;
+    height: 13vh;
+}
+
+.divClear{
+    width: 98%;
+    height: 13vh;
+}
+
+/* BOTOES */
+
+.signal{
+    background-color: #a0c9c9;
+    width: 100%;
+    height: 100%;
+    border: none;
+    font-size: 3em;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+
+.number{
+    background-color: #fff;
+    width: 100%;
+    height: 100%;
+    border: none;
+    font-size: 2em;
+    font-weight: bold;
+    color: rgb(105, 105, 105);
+    cursor: pointer;
+}
+
+.equal{
+    background-color: #fff;
+    width: 100%;
+    height: 100%;
+    border: none;
+    font-size: 4em;
+    font-weight: bold;
+    color: rgb(105, 105, 105);
+    cursor: pointer;
+}
+
+.clear{
+    background-color: #fff;
+    width: 100%;
+    height: 100%;
+    border: none;
+    font-size: 4em;
+    font-weight: bold;
+    color: rgb(105, 105, 105);
+    cursor: pointer;
+}

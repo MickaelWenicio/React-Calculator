@@ -1,0 +1,1 @@
+## a simple calculator made in react with addition, subtraction, division and multiplication functionalities
