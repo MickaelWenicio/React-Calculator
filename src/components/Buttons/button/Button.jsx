@@ -1,7 +1,7 @@
 import React from 'react'
 import './Button.css'
 
-const Button = ({value, type}) => {
+const Button = ({value, type, func}) => {
 
   const checkButtonType=()=>{
     if(type ==="signal"){
@@ -29,7 +29,7 @@ const Button = ({value, type}) => {
 
   return (
     <div className={checkDivType()}>
-      <button className={checkButtonType()}>{value}</button>
+      <button className={checkButtonType()} onClick={func}>{value}</button>
     </div>
   )
 }
