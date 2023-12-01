@@ -5,6 +5,12 @@
     width: 100%;
     padding-top:1em;
     justify-content: center;
-    width: 100%;
     gap: 2%;
+}
+
+@media(min-width: 800px){
+    .Buttons{
+        width: 26em;
+        height: 60%;
+    }
 }

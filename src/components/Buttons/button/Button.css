@@ -63,3 +63,25 @@
     color: rgb(105, 105, 105);
     cursor: pointer;
 }
+
+@media(min-width: 800px){
+    .divSignal{
+        width: 23%;
+        height: 25%;
+    }
+    
+    .divNumber{
+        width: 23%;
+        height: 25%;
+    }
+    
+    .divEqual{
+        width: 48%;
+        height: 25%;
+    }
+    
+    .divClear{
+        width: 98%;
+        height: 25%;
+    }
+}

@@ -7,3 +7,11 @@
     padding: 5vw;
     flex-direction: column;
 }
+
+@media(min-width: 800px){
+    .calculator{
+        width: 33em;
+        height: 50em;
+        border-radius: 1em;
+    }
+}

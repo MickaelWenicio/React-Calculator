@@ -18,3 +18,10 @@
     color: #fff;
     outline: none;
 }
+
+@media(min-width: 800px){
+    #divInput{
+        width: 25em;
+        height: 8em;
+    }
+}
